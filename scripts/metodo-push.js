@@ -5,4 +5,4 @@ console.table(playlist);
 //adicionando um novo estilo
 playlist.push("trap");
 console.log("depois do push");
-console.table(playlist);
+console.table(playlist)
