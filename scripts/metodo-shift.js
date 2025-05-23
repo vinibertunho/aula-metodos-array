@@ -1,5 +1,5 @@
 let playlist = ["funk", "hiphop", "pop"];
-console.log("antes do push");
+console.log("antes do shift
 console.table(playlist);
 
 // adicionando o primeiro estilo
