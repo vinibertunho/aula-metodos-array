@@ -8,3 +8,4 @@ let estiloRemovido = playlist.shift()
 
 console.log("depois do shift")
 console.log("Estoli removido:", playlist)
+console.table(playlist)
