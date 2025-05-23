@@ -1,0 +1,14 @@
+# Metodos Array em aulas
+- push
+- pop
+- shift
+- unshift
+- includes
+- join
+- slice
+- splice
+- concat
+- map
+- filter
+- sort
+- reverse
