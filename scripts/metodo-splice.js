@@ -8,4 +8,4 @@ let elementosRemovidos = playlist.splice(2, 2);
 
 console.log("Depois do splice:", playlist);
 
-console.log("Elementos removidos:", elementosRemovidos);
+console.log("Elementos removidos:", elementosRemovidos)
