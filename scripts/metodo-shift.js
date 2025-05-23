@@ -2,7 +2,7 @@ let playlist = ["funk", "hiphop", "pop"];
 console.log("antes do shift")
 console.table(playlist);
 
-// adicionando o primeiro estilo
+// removendo o primeiro estilo
 let estiloRemovido = playlist.shift()
 
 
